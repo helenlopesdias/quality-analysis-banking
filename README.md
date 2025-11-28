@@ -2,7 +2,8 @@
 
 **Diagnóstico de dados sobre o impacto financeiro de falhas de software em transações críticas (PIX/TED).**
 
-![Dashboard Preview](Dashboard_Quality_Risk)
+<img width="901" height="567" alt="Dashboard_Quality_Risk" src="https://github.com/user-attachments/assets/f72040dd-ca98-4fc5-8a2d-0361a1058db5" />
+
 
 ## Sobre o Projeto
 Este projeto simula um cenário real de uma instituição financeira (*FutureBank*) que enfrenta altos custos operacionais devido à detecção tardia de falhas em seu sistema de pagamentos.
