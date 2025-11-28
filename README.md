@@ -26,7 +26,8 @@ A análise dos dados de incidentes do ano fiscal de 2023 revelou:
 * **Ferramenta:** Google Sheets (Tabelas Dinâmicas, Funções Condicionais, Visualização de Dados).
 
 ## Entregáveis do Projeto
-* [Acesse aqui o Scope of Work (SOW) Completo em PDF](https://github.com/user-attachments/files/23828589/Scope_of_Work_FutureBank.pdf.pdf)
+* [Acesse aqui o Scope of Work (SOW) Completo em PDF]([Scope-Of-Work_FutureBank- PT.pdf](https://github.com/user-attachments/files/23829581/Scope-Of-Work_FutureBank-.PT.pdf)
+)
 * Análise de ROI e mitigação de riscos regulatórios.
 
 ---
