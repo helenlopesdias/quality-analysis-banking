@@ -4,6 +4,8 @@
 
 <img width="901" height="567" alt="Dashboard_Quality_Risk" src="https://github.com/user-attachments/assets/f72040dd-ca98-4fc5-8a2d-0361a1058db5" />
 
+### 📊 [Clique aqui para acessar o Dashboard Interativo e navegar pelos dados]([COLE_SEU_LINK_AQUI](https://docs.google.com/spreadsheets/d/1ByLpTV7oras-n-UA4q3tsc87rXIJRMQktJWkGUDHUp8/edit?usp=sharing)
+*(Navegue pelas abas para ver a base de dados e os cálculos)*
 
 ## Sobre o Projeto
 Este projeto simula um cenário real de uma instituição financeira (*FutureBank*) que enfrenta altos custos operacionais devido à detecção tardia de falhas em seu sistema de pagamentos.
