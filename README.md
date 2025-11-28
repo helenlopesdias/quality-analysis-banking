@@ -16,7 +16,7 @@ A análise dos dados de incidentes do ano fiscal de 2023 revelou:
 * **Risco Crítico:** O módulo **PIX** é o maior ofensor em volume e severidade de falhas.
 * **Sazonalidade:** Picos de instabilidade correlacionados a datas comerciais (Natal/Dia das Mães).
 
-## 🛠️ Ferramentas e Técnicas Utilizadas
+## Ferramentas e Técnicas Utilizadas
 * **Análise de Dados:** Limpeza, saneamento e categorização de datasets.
 * **Estatística Descritiva:** Cálculo de correlação e distribuição de frequências.
 * **Business Intelligence:** Criação de Dashboard interativo e storytelling de dados.
